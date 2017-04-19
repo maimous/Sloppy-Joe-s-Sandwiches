@@ -12,4 +12,8 @@
 
 &nbsp;
 ## 02 Add the *MenuMaker* class
-* Add a booleean and three arrays to the class. 
+* Add a booleean and three arrays to the class.
+
+&nbsp;
+## 03 Add the *GetMenuItem* method
+* Add a *GetMenuItem* method to the *MenuMaker* class. It generates a random sandwich.
