@@ -17,3 +17,7 @@
 &nbsp;
 ## 03 Add the *GetMenuItem* method
 * Add a *GetMenuItem* method to the *MenuMaker* class. It generates a random sandwich.
+
+&nbsp;
+## 04 Assign the random sandwiches to the labels' texts.
+* initialize a new random object and assign the menu items to the labels' texts.
