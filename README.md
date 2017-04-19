@@ -9,3 +9,7 @@
 ## 01 Configure the form
 * Set name, text, dimensions, icon etc.
 * Add six labels.
+
+&nbsp;
+## 02 Add the *MenuMaker* class
+* Add a booleean and three arrays to the class. 
